@@ -20,10 +20,6 @@ tel: Structural Bioinformaticist
 email: nicholasakovacs.com
 github: NicholasAKovacs
 twitter: NAttilaKovacs
-address:
-  street: Atlanta, Ga
-  postcode: Ga
-  city: USA
 
 # needed for travis-ci build
 exclude: [vendor]
