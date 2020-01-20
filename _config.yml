@@ -16,10 +16,15 @@ author: Fábio Madeira
 baseurl: /vitae/
 title: Nicholas A Kovacs's Resume
 name: Nicholas Attila Kovacs
-tel: Structural Bioinformaticist
+tel: Atlanta, GA, USA
 email: nicholasakovacs.com
 github: NicholasAKovacs
 twitter: NAttilaKovacs
+address:
+  street: Structural
+  postcode: Bioinformaticist &
+  city: Data
+  country: Scientist
 
 # needed for travis-ci build
 exclude: [vendor]
