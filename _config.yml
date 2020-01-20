@@ -22,7 +22,8 @@ github: NicholasAKovacs
 twitter: NAttilaKovacs
 address:
   street: Atlanta, Ga
-  postcode: USA
+  postcode: Ga
+  city: USA
 
 # needed for travis-ci build
 exclude: [vendor]
