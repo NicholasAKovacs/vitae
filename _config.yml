@@ -27,3 +27,26 @@ address:
 
 # needed for travis-ci build
 exclude: [vendor]
+
+
+baseurl: /vitae/
+title: Nicholas Attila Kovacs's Resume
+name: Nicholas Attila Kovacs
+email: nicholasakovacs.com
+email_full: nicholasakovacs.com
+website: nicholasakovacs.com
+website_full: nicholasakovacs.com
+github: NicholasAKovacs
+twitter: NAttilaKovacs
+tel: Atlanta, GA, USA
+tel_full: Atlanta, GA, USA
+google_maps: 'https://www.google.com/moon/'
+address:
+  street: Bioinformaticist
+  postcode: &
+  city: Data
+  country: Scientist
+google_analytics: UA-69300817-1
+
+# needed for travis-ci build
+exclude: [vendor]
