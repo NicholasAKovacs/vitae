@@ -13,23 +13,6 @@ url: https://github.com/NicholasAKovacs/vitae
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /vitae/
-title: Nicholas A Kovacs's Resume
-name: Nicholas Attila Kovacs
-tel: Atlanta, GA, USA
-email: nicholasakovacs.com
-github: NicholasAKovacs
-twitter: NAttilaKovacs
-address:
-  street: Structural
-  postcode: Bioinformaticist &
-  city: Data
-  country: Scientist
-
-# needed for travis-ci build
-exclude: [vendor]
-
-
-baseurl: /vitae/
 title: Nicholas Attila Kovacs's Resume
 name: Nicholas Attila Kovacs
 email: nicholasakovacs.com
